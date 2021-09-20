@@ -1,6 +1,6 @@
 
 ## Hi I'm Carlos 👋
-#### I'm from Venezuela and have been living in the U.S. since 2006. I'm a barber. I went to school for CompSci, but my interests include economics and literature. I'm looking to enter the tech sector as a software engineer.
+#### I'm from Venezuela and have been living in the U.S. since 2006. I'm a barber. I went to school for CS, but my interests include economics and literature. I'm looking to enter the tech sector as a software engineer.
 
 - 🔭 I’m currently working on a multiplatform app for my barber business. 
 - 🌱 I’m currently learning a little bit everithing 
