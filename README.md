@@ -1,8 +1,8 @@
 
 ## Hi I'm Carlos 👋
-#### I'm from Venezuela and have been living in the U.S. since 2006. I'm a barber. I went to school for CS, but my interests include economics and literature. I'm looking to enter the tech sector as a software engineer.
+#### I'm from Venezuela and have been living in the U.S. since 2006. My interests include technology, economics and, literature. I'm looking to enter the tech sector as a software engineer.
 
-- 🔭 I’m currently working on a multiplatform app for my barber business. 
+- 🔭 I’m currently working on a multiplatform app for service sector businesses. 
 - 🌱 I’m currently learning a little bit everithing 
 - 👯 I’m looking to collaborate on Multiplatform apps
 - 🤔 I’m looking for help with building native mobile apps that work with cloud on the back end
