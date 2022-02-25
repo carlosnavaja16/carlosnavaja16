@@ -9,8 +9,6 @@
 - 💬 Ask me about economics, cooking or the immigrant experience in the United States
 - 📫 Reach me at carlos.rossi16@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The United States has the second largest Spanish speaking population in the world, ahead of Spain but behind Mexico.
-
 
 #### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
