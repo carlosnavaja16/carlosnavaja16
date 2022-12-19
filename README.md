@@ -8,7 +8,7 @@
 - 📫 Reach me at carlos.rossi16@gmail.com
 - 😄 Pronouns: He/Him
 
-#### Languages and Tools:
+#### Languages, Frameworks and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-typescript-official-icon-256x256-aavrgmi0.png" />
