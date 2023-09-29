@@ -18,7 +18,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
 <img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" />
-<img align="left" alt="Spring" width="26px" src="https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico" />
+<img align="left" alt="Spring" width="26px" src="https://1.bp.blogspot.com/-trIS3Iz94SE/YIr3iwBC23I/AAAAAAAAtVQ/oieBThHJU3wPJkGOATDSvi6RySwlowM5ACLcBGAsYHQ/s452/spring-logo.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 
