@@ -2,8 +2,8 @@
 ## Hi I'm Carlos 👋
 #### I'm from Venezuela and have been living in the U.S. since 2006. My interests include technology, economics and, literature. 
 
-- 🔭 I’m currently working on an enterprise web application with an Angular front-end and Spring microservices in the back-end. 
-- 🌱 I’m currently learning a little bit everithing 
+- 🔭 I’m currently working on an Angular enterpriseweb application powered by GraphQL and microservices. 
+- 🌱 I’m always interested in learning a little bit everithing 
 - 💬 Ask me about technology, economics, cooking or the immigrant experience in the United States
 - 📫 Reach me at carlos.rossi16@gmail.com
 - 😄 Pronouns: He/Him
