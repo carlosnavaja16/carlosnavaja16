@@ -1,5 +1,5 @@
 
-## Hi I'm Carlos 👋
+## Carlos Rossi
 #### I'm from Venezuela and have been living in the U.S. since 2006. My interests include technology, economics and, literature. 
 
 - 🔭 I’m currently working on an Angular enterpriseweb application powered by GraphQL and microservices. 
