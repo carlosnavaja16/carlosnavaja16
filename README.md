@@ -2,9 +2,8 @@
 ## Carlos Rossi
 #### I'm from Venezuela and have been living in the U.S. since 2006. My interests include technology, economics and, literature. 
 
-- 🔭 I’m currently working on an Angular enterpriseweb application powered by GraphQL and microservices. 
-- 🌱 I’m always interested in learning a little bit everithing 
-- 💬 Ask me about technology, economics, cooking or the immigrant experience in the United States
+- 💼 I’m currently working in on an enterprise web application powered by Angular, GraphQL, and microservices. 
+- 🌱 Commited to continuous growth
 - 📫 Reach me at carlos.rossi16@gmail.com
 - 😄 Pronouns: He/Him
 
@@ -21,5 +20,4 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 
-[Website]: https://carlosnavaja.com
 [LinkedIn]: www.linkedin.com/in/carlosnavaja16
